@@ -160,7 +160,7 @@ h1{
 }
 .services-title::before{
     content: '';
-    background-image: url(/assets/Line\ 1.svg);
+    background-image: url(assets/Line\ 1.svg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 4px;
@@ -240,7 +240,7 @@ h1{
 }
 .about-content::after{
     content: '';
-    background-image: url(/assets/paw.svg);
+    background-image: url(assets/paw.svg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 92px;
@@ -263,7 +263,7 @@ h1{
 }
 .products-title::before{
     content: '';
-    background-image: url(/assets/Line\ 1.svg);
+    background-image: url(assets/Line\ 1.svg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 4px;
@@ -329,7 +329,7 @@ h1{
 
 .products-list-item:nth-child(1)::after{
     content: '';
-    background-image: url(/assets/productdecor1.svg);
+    background-image: url(assets/productdecor1.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 186px;
@@ -341,7 +341,7 @@ h1{
 }
 .products-list-item:nth-child(2)::after{
     content: '';
-    background-image: url(/assets/productdecor2.svg);
+    background-image: url(assets/productdecor2.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 186px;
@@ -353,7 +353,7 @@ h1{
 }
 .products-list-item:nth-child(3)::after{
     content: '';
-    background-image: url(/assets/productdecor3.svg);
+    background-image: url(assets/productdecor3.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 186px;
@@ -407,7 +407,7 @@ h1{
 }
 .custemer-title::after {
     content: '';
-    background-image: url(/assets/Line\ 1.svg);
+    background-image: url(assets/Line\ 1.svg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 4px;
